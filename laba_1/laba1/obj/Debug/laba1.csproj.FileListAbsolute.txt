@@ -1,0 +1,28 @@
+D:\комп графика\лаба 1\laba1\laba1\bin\Debug\laba1.exe.config
+D:\комп графика\лаба 1\laba1\laba1\bin\Debug\laba1.exe
+D:\комп графика\лаба 1\laba1\laba1\bin\Debug\laba1.pdb
+D:\комп графика\лаба 1\laba1\laba1\obj\Debug\laba1.csprojAssemblyReference.cache
+D:\комп графика\лаба 1\laba1\laba1\obj\Debug\laba1.Form1.resources
+D:\комп графика\лаба 1\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+D:\комп графика\лаба 1\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+D:\комп графика\лаба 1\laba1\laba1\obj\Debug\laba1.exe
+D:\комп графика\лаба 1\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\user\Desktop\лаба 1\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\user\Desktop\лаба 1\laba1\laba1\obj\Debug\laba1.pdb
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\mscorlib.dll
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\normidna.nlp
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\normnfc.nlp
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\normnfd.nlp
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\normnfkc.nlp
+C:\Users\user\Desktop\лаба 1\laba1\laba1\bin\Debug\normnfkd.nlp
+C:\Users\user\Desktop\лаба 1\laba1\laba1\obj\Debug\laba1.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\лаба 1\laba1\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\user\Desktop\лаба 1\laba1\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\user\Desktop\лаба 1\laba1\laba1\obj\Debug\laba1.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\лаба 1\laba_1\laba1\bin\Debug\laba1.exe.config
+C:\Users\user\Desktop\лаба 1\laba_1\laba1\obj\Debug\laba1.exe
+C:\Users\user\Desktop\лаба 1\laba_1\laba1\obj\Debug\laba1.pdb
